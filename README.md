@@ -13,24 +13,24 @@
 
 ## Function#2
 * 개봉일 힌트
-![2nd](./img/ReleaseDateHint2.PNG)
+![2nd](./img/ReleaseDateHint2.png)
 
 ---
 
 ## Function#3
 * 첫글자 힌트
-![3rd](./img/FirstLetterHint2.PNG)
+![3rd](./img/FirstLetterHint2.png)
 
 ---
 
 ## Function#4
 * 감독 
-![4th](./img/DirectorHint2.PNG)
+![4th](./img/DirectorHint2.png)
 
 ---
 
 ## Function#5
 * 정답 화면 
-![5th](./img/Answer2.PNG)
+![5th](./img/Answer2.png)
 
 ---
