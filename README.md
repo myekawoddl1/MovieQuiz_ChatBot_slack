@@ -31,6 +31,6 @@
 
 ## Function#5
 * 정답 화면 
-![5th](./img/.PNG)
+![5th](./img/Answer2.PNG)
 
 ---
