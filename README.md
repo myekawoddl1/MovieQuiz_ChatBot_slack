@@ -12,19 +12,19 @@
 ---
 
 ## Function#2
-* ReleaseDateHint
+* 개봉일 힌트
 ![2nd](./img/ReleaseDateHint2.PNG)
 
 ---
 
 ## Function#3
-* FirstLetterHint2
+* 첫글자 힌트
 ![3rd](./img/FirstLetterHint2.PNG)
 
 ---
 
 ## Function#4
-* DirectorHint
-![4th](./img/DirectorHint.PNG)
+* 감독 
+![4th](./img/DirectorHint2.PNG)
 
 ---
