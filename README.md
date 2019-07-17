@@ -7,7 +7,7 @@
 
 ## Function#1
 * 실행 화면
-![1st](./img/SAMPLE.PNG)
+![1st](./img/SAMPLE.png)
 
 ---
 
