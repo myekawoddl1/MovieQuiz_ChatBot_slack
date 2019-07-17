@@ -28,3 +28,9 @@
 ![4th](./img/DirectorHint2.PNG)
 
 ---
+
+## Function#5
+* 정답 화면 
+![5th](./img/.PNG)
+
+---
